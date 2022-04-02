@@ -1,5 +1,9 @@
 import matplotlib
-matplotlib.use('TkAgg')
+
+try :
+    matplotlib.use('TkAgg')
+except :
+    matplotlib.use('Qt5Agg')
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation

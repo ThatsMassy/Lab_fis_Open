@@ -16,6 +16,6 @@ if [[ "$DISTRO" == *Ubuntu* ]];
 fi
 if [[ "$DISTRO" == *Arch* ]];
   then
-         pacman -Syyu &&  pacman -S python-pygame python-pip pyqt5 &&  pip install matplotlib && wget https://files.pythonhosted.org/packages/cc/74/11b04703ec416717b247d789103277269d567db575d2fd88f25d9767fe3d/pyserial-3.4.tar.gz &&  tar -xvf pyserial-3.4.tar.gz && cd pyserial-3.4 && sudo python setup.py install && cd .. && wget https://downloads.arduino.cc/arduino-1.8.19-linux64.tar.xz && sudo tar -xvf arduino-1.8.19-linux64.tar.xz && cd arduino-1.8.19 && sudo ./install.sh
+    sudo pacman -Syyu && sudo pacman -S tk python-pygame python-pip && sudo pip install matplotlib && wget https://files.pythonhosted.org/packages/cc/74/11b04703ec416717b247d789103277269d567db575d2fd88f25d9767fe3d/pyserial-3.4.tar.gz && sudo tar -xvf pyserial-3.4.tar.gz && cd pyserial-3.4 && sudo python setup.py install && cd .. && wget https://downloads.arduino.cc/arduino-1.8.19-linux64.tar.xz && sudo tar -xvf arduino-1.8.19-linux64.tar.xz && cd arduino-1.8.19 && sudo ./install.sh
   exit
 fi

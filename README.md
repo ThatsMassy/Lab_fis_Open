@@ -19,9 +19,31 @@ Ubuntu 21.10
 
 Ubuntu 22.04 Beta
 
+Lubuntu 20.04 LTS
+
+Lubuntu 21.10
+
+Lubuntu 22.04 Beta
+
+Xubuntu 20.04 LTS
+
+Xubuntu 21.10
+
+Xubuntu 22.04 Beta
+
+Kubuntu 20.04 LTS
+
+Kubuntu 21.10
+
+Kubuntu 22.04 Beta
+
 Linux Mint 20.3
 
 ZorinOS Core 16
+
+Pop!_OS 20.04 LTS
+
+Pop!_OS 21.10
 
 ## Tested on (Arch Based)
 

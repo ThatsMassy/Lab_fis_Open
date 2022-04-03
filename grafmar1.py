@@ -52,6 +52,6 @@ while (fine != "f"):
            a = ser.readline()
            y = float(a)
  start = time.time()
- ani = animation.FuncAnimation(fig, run, data_gen, blit=True,interval=1,repeat=True)
+ ani = animation.FuncAnimation(fig, run, data_gen, blit=True,interval=1,repeat=False)
  plt.show()
  fine=input("Premi f per finire :")

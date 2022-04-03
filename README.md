@@ -37,6 +37,8 @@ Artix Linux (OpenRC)
 
 ## Tested on (Fedora Based)
 
+Fedora 33
+
 Fedora 34
 
 Fedora 35

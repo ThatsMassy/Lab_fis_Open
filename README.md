@@ -10,3 +10,25 @@ sudo bash install.sh
 If you plan to run this script under a docker container you need to install docker-compose and, when prompted, say "yes" to enable XORG connections
 
 Then just run docker.compose up
+
+## Tested on (Debian Based)
+
+Ubuntu 20.04 LTS
+Ubuntu 21.10
+Ubuntu 22.04 Beta
+Linux Mint 20.3
+ZorinOS Core 16
+
+## Tested on (Arch Based)
+
+Arch Linux (Manual install)
+Arch Linux (archinstall, kernel Zen)
+Manjaro 21.2.5
+EndeavourOS
+Artix Linux (OpenRC)
+
+## Tested on (Fedora Based)
+
+Fedora 34
+Fedora 35
+Fedora 36 Beta

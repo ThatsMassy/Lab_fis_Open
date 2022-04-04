@@ -66,3 +66,9 @@ Fedora 34
 Fedora 35
 
 Fedora 36 Beta
+
+## WIP
+
+openSUSE (Tumbleweed & Leap)
+
+ChromeOS

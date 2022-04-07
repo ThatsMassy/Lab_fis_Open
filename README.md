@@ -15,11 +15,15 @@ Then just run docker.compose up
 
 Ubuntu 20.04 LTS
 
+Ubuntu 21.04
+
 Ubuntu 21.10
 
 Ubuntu 22.04 Beta
 
 Lubuntu 20.04 LTS
+
+Lubuntu 21.04
 
 Lubuntu 21.10
 
@@ -27,11 +31,15 @@ Lubuntu 22.04 Beta
 
 Xubuntu 20.04 LTS
 
+Xubuntu 21.04
+
 Xubuntu 21.10
 
 Xubuntu 22.04 Beta
 
 Kubuntu 20.04 LTS
+
+Kubuntu 21.04
 
 Kubuntu 21.10
 

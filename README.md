@@ -51,6 +51,8 @@ ZorinOS Core 16
 
 Pop!_OS 20.04 LTS
 
+Pop!_OS 21.04
+
 Pop!_OS 21.10
 
 ## Tested on (Arch Based)

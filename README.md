@@ -19,7 +19,7 @@ Ubuntu 21.04
 
 Ubuntu 21.10
 
-Ubuntu 22.04 Beta
+Ubuntu 22.04 LTS
 
 Lubuntu 20.04 LTS
 
@@ -27,7 +27,7 @@ Lubuntu 21.04
 
 Lubuntu 21.10
 
-Lubuntu 22.04 Beta
+Lubuntu 22.04 LTS
 
 Xubuntu 20.04 LTS
 
@@ -35,7 +35,7 @@ Xubuntu 21.04
 
 Xubuntu 21.10
 
-Xubuntu 22.04 Beta
+Xubuntu 22.04 LTS
 
 Kubuntu 20.04 LTS
 
@@ -43,7 +43,7 @@ Kubuntu 21.04
 
 Kubuntu 21.10
 
-Kubuntu 22.04 Beta
+Kubuntu 22.04 LTS
 
 Linux Mint 20.3
 

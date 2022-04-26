@@ -55,6 +55,8 @@ Pop!_OS 21.04
 
 Pop!_OS 21.10
 
+Pop!_OS 22.04 LTS
+
 ## Tested on (Arch Based)
 
 Arch Linux (Manual install)
@@ -62,6 +64,8 @@ Arch Linux (Manual install)
 Arch Linux (archinstall, kernel Zen)
 
 Manjaro 21.2.5
+
+Manjaro 21.2.6
 
 EndeavourOS
 

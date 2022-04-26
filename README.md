@@ -6,8 +6,13 @@ This repo contains a few scripts to install the base for an Open Pyisics Laborat
 Just run as root the install.sh file, if you encounter any issues open an issue
 
 sudo bash install.sh
+
+Then after the script finishes installing you have to run Cleanup.sh
+
+sudo bash Cleanup.sh
+
 ## Running inside docker
-If you plan to run this script under a docker container you need to install docker-compose and, when prompted, say "yes" to enable XORG connections
+If you plan to run this script under a docker container you need to install docker-compose and, when prompted, say "y" to enable XORG connections
 
 Then just run docker.compose up
 
@@ -48,6 +53,8 @@ Kubuntu 22.04 LTS
 Linux Mint 20.3
 
 ZorinOS Core 16
+
+ZorinOS Core 16.1
 
 Pop!_OS 20.04 LTS
 

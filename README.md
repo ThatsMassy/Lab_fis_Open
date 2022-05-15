@@ -95,3 +95,5 @@ Ubuntu 18.04 LTS
 openSUSE (Tumbleweed & Leap)
 
 ChromeOS
+
+Raspbian OS

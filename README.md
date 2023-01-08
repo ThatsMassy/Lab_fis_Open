@@ -26,6 +26,8 @@ Ubuntu 21.10
 
 Ubuntu 22.04 LTS
 
+Ubuntu 22.10
+
 Lubuntu 20.04 LTS
 
 Lubuntu 21.04
@@ -33,6 +35,8 @@ Lubuntu 21.04
 Lubuntu 21.10
 
 Lubuntu 22.04 LTS
+
+Lubuntu 22.10
 
 Xubuntu 20.04 LTS
 
@@ -42,6 +46,8 @@ Xubuntu 21.10
 
 Xubuntu 22.04 LTS
 
+Xubuntu 22.10
+
 Kubuntu 20.04 LTS
 
 Kubuntu 21.04
@@ -50,11 +56,19 @@ Kubuntu 21.10
 
 Kubuntu 22.04 LTS
 
+Kubuntu 22.10
+
 Linux Mint 20.3
+
+Linux Mint 21
+
+Linux Mint 21.1
 
 ZorinOS Core 16
 
 ZorinOS Core 16.1
+
+ZorinOS Core 16.2
 
 Pop!_OS 20.04 LTS
 
@@ -63,6 +77,8 @@ Pop!_OS 21.04
 Pop!_OS 21.10
 
 Pop!_OS 22.04 LTS
+
+Pop!_OS 22.10
 
 ## Tested on (Arch Based)
 
@@ -73,6 +89,8 @@ Arch Linux (archinstall, kernel Zen)
 Manjaro 21.2.5
 
 Manjaro 21.2.6
+
+Manjaro 22
 
 EndeavourOS
 
@@ -88,6 +106,8 @@ Fedora 35
 
 Fedora 36
 
+Fedora 37
+
 ## WIP
 
 Ubuntu 18.04 LTS
@@ -97,3 +117,5 @@ openSUSE (Tumbleweed & Leap)
 ChromeOS
 
 Raspbian OS
+
+WSL (Ubuntu 20 LTS)

@@ -108,11 +108,13 @@ Fedora 36
 
 Fedora 37
 
+## Tested on (openSUSE Based)
+
+openSUSE Leap 15.4
+
 ## WIP
 
 Ubuntu 18.04 LTS
-
-openSUSE (Tumbleweed & Leap)
 
 ChromeOS
 

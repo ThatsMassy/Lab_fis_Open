@@ -123,3 +123,9 @@ ChromeOS
 Raspbian OS
 
 WSL (Ubuntu 20 LTS)
+
+Asahi Linux (MacBook Air M1)
+
+Asahi Linux (Mac Studio M1 Max)
+
+Asahi Linux (MacBook Pro M2)

@@ -14,7 +14,7 @@ Then after the script finishes installing you have to run Cleanup.sh
 sudo bash Cleanup.sh
 
 ## Running inside docker
-If you plan to run this script under a docker container you need to install docker-compose and, when prompted, say "y" to enable XORG connections
+If you plan to run this script under a docker container you need to install docker-compose and, when prompted, type "y" to enable XORG connections
 
 Then just run docker.compose up
 

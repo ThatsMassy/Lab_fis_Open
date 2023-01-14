@@ -18,6 +18,10 @@ If you plan to run this script under a docker container you need to install dock
 
 Then just run docker.compose up
 
+## Running on ARM distros
+
+The script will ask you if you are running an ARM version of Linux, if so just type "y" to install ARM specific packages
+
 ## Tested on (Debian Based)
 
 Ubuntu 20.04 LTS

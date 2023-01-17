@@ -20,7 +20,7 @@ Then just run docker.compose up
 
 ## Running on ARM distros
 
-The script will ask you if you are running an ARM version of Linux, if so just type "y" to install ARM specific packages
+The script will recognize if you're running on an ARM-Based GNU/Linux Distro, it will automatically download and install ARM specific packages instead of the x86 ones
 
 ## Tested on (Debian Based)
 

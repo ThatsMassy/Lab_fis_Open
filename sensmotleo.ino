@@ -16,5 +16,5 @@ void loop()
 	delay(30);			// Wait 50ms between pings (about 20 pings/sec). 29ms should be the shortest delay between pings.
 	unsigned int uS = sonar.ping();	// Send ping, get ping time in microseconds (uS).
 	float s = uS*0.034385/2;	// Convert ping time to distance and print result (0 = outside set distance range, no ping echo)
-	Serial.printfln(s);
+	Serial.println(s);
 }

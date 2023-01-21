@@ -126,6 +126,10 @@ openSUSE Leap 15.4
 
 Ubuntu 18.04 LTS
 
+macOS 12 Monterey
+
+macOS 13 Ventura
+
 ChromeOS
 
 Raspbian OS

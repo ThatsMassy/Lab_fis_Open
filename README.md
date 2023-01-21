@@ -26,9 +26,11 @@ The script will recognize if you're running on an ARM-Based GNU/Linux Distro, it
 
 1) You will need brew installed (https://brew.sh)
 
-2) Run as root install_mac.sh
+2) Run chmod +r install_mac.sh
 
-3) When prompted install the arduino ide
+3) Run ./install_mac.sh
+
+4) When prompted install the arduino ide
 
 ## Tested on (Debian Based)
 

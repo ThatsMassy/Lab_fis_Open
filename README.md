@@ -104,6 +104,8 @@ Artix Linux (OpenRC)
 
 Asahi Linux (Mac Studio M1 Max)
 
+Asahi Linux (MacBook Air M1)
+
 ## Tested on (Fedora Based)
 
 Fedora 33
@@ -130,6 +132,4 @@ Raspbian OS
 
 WSL (Ubuntu 20 LTS)
 
-Asahi Linux (MacBook Air M1)
-
-Asahi Linux (MacBook Pro M2)
+Asahi Linux (MacBook Pro M2 Pro)

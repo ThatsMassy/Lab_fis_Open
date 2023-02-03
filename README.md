@@ -32,6 +32,10 @@ The script will recognize if you're running on an ARM-Based GNU/Linux Distro, it
 
 4) When prompted install the arduino ide
 
+## Tested on (macOS)
+
+macOS 12 Monterey
+
 ## Tested on (Debian Based)
 
 Ubuntu 20.04 LTS
@@ -135,8 +139,6 @@ openSUSE Leap 15.4
 ## WIP
 
 Ubuntu 18.04 LTS
-
-macOS 12 Monterey
 
 macOS 13 Ventura
 

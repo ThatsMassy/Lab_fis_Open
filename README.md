@@ -145,7 +145,3 @@ macOS 13 Ventura
 ChromeOS
 
 Raspbian OS
-
-WSL (Ubuntu 22 LTS)
-
-Asahi Linux (MacBook Pro M2 Pro)

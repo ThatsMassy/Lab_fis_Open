@@ -22,7 +22,11 @@ Then just run docker.compose up
 
 The script will recognize if you're running on an ARM-Based GNU/Linux Distro, it will automatically download and install ARM specific packages instead of the x86 ones
 
-## Running on macOS (Only ARM supported at the moment, still testing out things)
+## Running on macOS
+
+ARM-Based Macs are fully supported
+
+Intel-Based 64-Bit Macs are under experimental support, however it should work just fine
 
 1) You will need brew installed (https://brew.sh)
 
@@ -30,13 +34,13 @@ The script will recognize if you're running on an ARM-Based GNU/Linux Distro, it
 
 3) Run ./install_mac.sh
 
-4) When prompted install the arduino ide
+4) When prompted drag the Arduino IDE app to the Applications folder to install it
 
 ## Tested on (macOS)
 
 macOS 12 Monterey
 
-## Tested on (Debian Based)
+## Tested on (Ubuntu Based)
 
 Ubuntu 20.04 LTS
 

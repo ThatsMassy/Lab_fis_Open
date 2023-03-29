@@ -32,7 +32,7 @@ Intel-Based 64-Bit Macs are under experimental support, however it should work j
 
 2) Run chmod +r install_mac.sh
 
-3) Run ./install_mac.sh
+3) Run bash install_mac.sh
 
 4) When prompted drag the Arduino IDE app to the Applications folder to install it
 

@@ -24,9 +24,7 @@ The script will recognize if you're running on an ARM-Based GNU/Linux Distro, it
 
 ## Running on macOS
 
-ARM-Based Macs are fully supported
-
-Intel-Based 64-Bit Macs are under experimental support, however it should work just fine
+BOTH ARCHITECTURES ARE SUPPORTED (Intel and Apple Silicon)
 
 1) You will need brew installed (https://brew.sh)
 
@@ -39,6 +37,8 @@ Intel-Based 64-Bit Macs are under experimental support, however it should work j
 ## Tested on (macOS)
 
 macOS 12 Monterey
+
+macOS 13 Ventura
 
 ## Tested on (Ubuntu Based)
 
@@ -151,8 +151,6 @@ Fedora 37
 openSUSE Leap 15.4
 
 ## WIP
-
-macOS 13 Ventura
 
 ChromeOS
 

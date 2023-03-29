@@ -42,6 +42,8 @@ macOS 12 Monterey
 
 ## Tested on (Ubuntu Based)
 
+Ubuntu 18.04 LTS
+
 Ubuntu 20.04 LTS
 
 Ubuntu 21.04
@@ -51,6 +53,8 @@ Ubuntu 21.10
 Ubuntu 22.04 LTS
 
 Ubuntu 22.10
+
+Lubuntu 18.04 LTS
 
 Lubuntu 20.04 LTS
 
@@ -62,6 +66,8 @@ Lubuntu 22.04 LTS
 
 Lubuntu 22.10
 
+Xubuntu 18.04 LTS
+
 Xubuntu 20.04 LTS
 
 Xubuntu 21.04
@@ -71,6 +77,8 @@ Xubuntu 21.10
 Xubuntu 22.04 LTS
 
 Xubuntu 22.10
+
+Kubuntu 18.04 LTS
 
 Kubuntu 20.04 LTS
 
@@ -93,6 +101,8 @@ ZorinOS Core 16
 ZorinOS Core 16.1
 
 ZorinOS Core 16.2
+
+Pop!_OS 18.04 LTS
 
 Pop!_OS 20.04 LTS
 
@@ -141,8 +151,6 @@ Fedora 37
 openSUSE Leap 15.4
 
 ## WIP
-
-Ubuntu 18.04 LTS
 
 macOS 13 Ventura
 

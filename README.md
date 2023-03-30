@@ -54,6 +54,8 @@ Ubuntu 22.04 LTS
 
 Ubuntu 22.10
 
+Ubuntu 23.04 Beta
+
 Lubuntu 18.04 LTS
 
 Lubuntu 20.04 LTS
@@ -65,6 +67,8 @@ Lubuntu 21.10
 Lubuntu 22.04 LTS
 
 Lubuntu 22.10
+
+Lubuntu 23.04 Beta
 
 Xubuntu 18.04 LTS
 
@@ -78,6 +82,8 @@ Xubuntu 22.04 LTS
 
 Xubuntu 22.10
 
+Xubuntu 23.04 Beta
+
 Kubuntu 18.04 LTS
 
 Kubuntu 20.04 LTS
@@ -89,6 +95,8 @@ Kubuntu 21.10
 Kubuntu 22.04 LTS
 
 Kubuntu 22.10
+
+Kubuntu 23.04 Beta
 
 Linux Mint 20.3
 
@@ -113,6 +121,8 @@ Pop!_OS 21.10
 Pop!_OS 22.04 LTS
 
 Pop!_OS 22.10
+
+Pop!_OS 23.04 Beta
 
 ## Tested on (Arch Based)
 

@@ -156,6 +156,8 @@ Fedora 36
 
 Fedora 37
 
+Fedora 38 Beta
+
 ## Tested on (openSUSE Based)
 
 openSUSE Leap 15.4

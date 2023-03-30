@@ -1,5 +1,5 @@
 DISTRO=$(hostnamectl | grep -i "operating system")
-AARCH=$(hostnamectl | grep -i "archtecture")
+AARCH=$(hostnamectl | grep -i "architecture")
 if [ "$EUID" -ne 0 ]
   then echo "Please run as root"
   exit

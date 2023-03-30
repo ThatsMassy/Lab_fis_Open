@@ -9,6 +9,8 @@ Just run as root the install.sh file, if you encounter any issues open an issue
 
 sudo bash install.sh
 
+the script will ask if you are on a version of Ubuntu prior to 23, based on that the installer will pick the correct installation method (Ubuntu only)
+
 Then after the script finishes installing you have to run Cleanup.sh
 
 sudo bash Cleanup.sh

@@ -136,6 +136,8 @@ Manjaro 21.2.6
 
 Manjaro 22
 
+Manjaro 22.0.5
+
 EndeavourOS
 
 Artix Linux (OpenRC)

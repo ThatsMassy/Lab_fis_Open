@@ -168,6 +168,8 @@ openSUSE Leap 15.4
 
 ## WIP
 
+macOS 14 Sonoma
+
 ChromeOS
 
 Raspbian OS

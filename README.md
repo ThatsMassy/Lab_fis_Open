@@ -1,5 +1,7 @@
 # Lab_fis_Open
-This repo contains a few scripts to install the base for an Open Pyisics Laboratory made with the help of an Arduino Leonardo Board
+This repo contains a few scripts to install the base for an Open Pyisics Laboratory made with the help of an Arduino Leonardo Board 
+
+##WIP (trying to expand the project with an Arduino Uno R4 Wi-Fi)
 
 ## Install guide (Arduino Leonardo)
 You'll need to burn the sketch (sensmotleo.ino) into your Arduino Leonardo using Arduino IDE

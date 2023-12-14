@@ -42,6 +42,8 @@ macOS 12 Monterey
 
 macOS 13 Ventura
 
+macOS 14 Sonoma
+
 ## Tested on (Ubuntu Based)
 
 Ubuntu 18.04 LTS

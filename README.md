@@ -64,6 +64,8 @@ Ubuntu 23.04
 
 Ubuntu 23.10
 
+Ubuntu 24 Beta
+
 Lubuntu 18.04 LTS
 
 Lubuntu 20.04 LTS
@@ -79,6 +81,8 @@ Lubuntu 22.10
 Lubuntu 23.04
 
 Lubuntu 23.10
+
+Lubuntu 24 Beta
 
 Xubuntu 18.04 LTS
 
@@ -96,6 +100,8 @@ Xubuntu 23.04
 
 Xubuntu 23.10
 
+Xubuntu 24 Beta
+
 Kubuntu 18.04 LTS
 
 Kubuntu 20.04 LTS
@@ -112,6 +118,8 @@ Kubuntu 23.04
 
 Kubuntu 23.10
 
+Kubuntu 24 Beta
+
 Linux Mint 20.3
 
 Linux Mint 21
@@ -120,6 +128,8 @@ Linux Mint 21.1
 
 Linux Mint 21.2
 
+Linux Mint 21.3
+
 ZorinOS Core 16
 
 ZorinOS Core 16.1
@@ -127,6 +137,8 @@ ZorinOS Core 16.1
 ZorinOS Core 16.2
 
 ZorinOS Core 16.3
+
+ZorinOS Core 17
 
 Pop!_OS 18.04 LTS
 
@@ -156,6 +168,8 @@ Manjaro 22.0.5
 
 Manjaro 23.0.4
 
+Manjaro 23.1.3
+
 EndeavourOS
 
 Artix Linux (OpenRC)
@@ -180,6 +194,8 @@ Fedora 37
 
 Fedora 38
 
+Fedora 39
+
 ## Tested on (openSUSE Based)
 
 openSUSE Leap 15.4
@@ -193,7 +209,5 @@ macOS 14 Sonoma
 ChromeOS
 
 Raspbian OS
-
-Fedora 39 Beta
 
 openSUSE Tumbleweed

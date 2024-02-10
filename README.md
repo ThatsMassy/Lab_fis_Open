@@ -203,7 +203,6 @@ openSUSE Leap 15.5
 
 ## WIP
 
-macOS 14 Sonoma
 
 ChromeOS
 

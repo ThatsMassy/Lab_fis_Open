@@ -2,8 +2,8 @@
 This repo contains a few scripts to install the base for an Open Pyisics Laboratory made with the help of an Arduino Leonardo Board or an Arduino UNO R4 Wi-Fi
 
 
-## Install guide (Arduino Leonardo)
-You'll need to burn the sketch (sensmotleo.ino) into your Arduino Leonardo using Arduino IDE
+## Install guide (Arduino Leonardo & Arduino UNO R4 Wi-Fi)
+You'll need to burn the sketch (sensmotleo.ino) into your Arduino Leonardo or Arduino UNO R4 Wi-Fi using Arduino IDE
 
 ## Install guide (Linux)
 Just run as root the install.sh file, if you encounter any issues open an issue

@@ -1,5 +1,5 @@
 # Lab_fis_Open
-This repo contains a few scripts to install the base for an Open Pyisics Laboratory made with the help of an Arduino Leonardo Board or an Arduino UNO R4 Wi-Fi
+This repo contains a few scripts to install the base for an Open Physics Laboratory made with the help of an Arduino Leonardo Board or an Arduino UNO R4 Wi-Fi
 
 
 ## Install guide (Arduino Leonardo & Arduino UNO R4 Wi-Fi)

@@ -63,7 +63,7 @@ Ubuntu 23.04
 
 Ubuntu 23.10
 
-Ubuntu 24 Beta
+Ubuntu 24.04 LTS
 
 Lubuntu 18.04 LTS
 
@@ -81,7 +81,7 @@ Lubuntu 23.04
 
 Lubuntu 23.10
 
-Lubuntu 24 Beta
+Lubuntu 24.04 LTS
 
 Xubuntu 18.04 LTS
 
@@ -99,7 +99,7 @@ Xubuntu 23.04
 
 Xubuntu 23.10
 
-Xubuntu 24 Beta
+Xubuntu 24.04 LTS
 
 Kubuntu 18.04 LTS
 
@@ -117,7 +117,7 @@ Kubuntu 23.04
 
 Kubuntu 23.10
 
-Kubuntu 24 Beta
+Kubuntu 24.04 LTS
 
 Linux Mint 20.3
 
